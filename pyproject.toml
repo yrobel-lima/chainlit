@@ -1,0 +1,8 @@
+[project]
+name = "chainlit"
+version = "2.6.5-dev"
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
